@@ -4,9 +4,11 @@ The project is aimed to build a predictor model that predicts human activities s
 * The complete dataset for this project was obtained from the below site
 https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones
 
-* The file Human Activity Recognition Prediction.ipynb contains Exploratory Data Analysis, T-SNE for visiualizing the data and I have fit the data with the classical Machine Learning models such as Logistic Regression,Linear SVC,RBF SVM Classifier,Decision Trees, Random Forest Dts ,GradientBoosting Dts and also Deep Learning model (LSTM). 
+* The file Human Activity Recognition Prediction.ipynb contains Exploratory Data Analysis, T-SNE for visiualizing the data and I have fit the data with the classical Machine Learning models such as Logistic Regression,Linear SVC,RBF SVM Classifier,Decision Trees, Random Forest Dts ,GradientBoosting Dts and also Deep Learning model (LSTM). This is the first approach in which all the models are fed with the handcoded features (561 featrues). 
 
 * The Image files are the T-SNE Visualizations of the data points with 6 classes.
+
+* The file HAR Divide and Conquer Approach.ipynb contains a deep learning model which is fed with the raw signals, here first model is created to split data into dynamic and static activities and later two models are built to one for classifying static activitis and other for dynamic activitis.
 
 
 
