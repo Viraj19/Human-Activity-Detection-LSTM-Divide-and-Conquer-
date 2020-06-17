@@ -13,4 +13,5 @@ https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartph
 
 
 <em>References:</em>
-The divide and conquer based Human Activity Recognition is based on the research <a href="https://www.researchgate.net/publication/324224939_Divide_and_Conquer-Based_1D_CNN_Human_Activity_Recognition_Using_Test_Data_Sharpening">paper.</a>
+
+* The divide and conquer based Human Activity Recognition is based on the research <a href="https://www.researchgate.net/publication/324224939_Divide_and_Conquer-Based_1D_CNN_Human_Activity_Recognition_Using_Test_Data_Sharpening">paper.</a>
